@@ -1,2 +1,2 @@
-# ClientEcho-TGbot
+# EchoClient-TGbot
 
